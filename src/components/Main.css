@@ -1,0 +1,19 @@
+.main {
+  flex: 0.7;
+  flex-grow: 1;
+}
+
+.main__body {
+  min-height: 85vh;
+  background-image: url("https://source.unsplash.com/EwKXn5CapA4");
+  background-position: top center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.main__footer {
+  flex-grow: 1;
+  border-radius: 20px;
+}

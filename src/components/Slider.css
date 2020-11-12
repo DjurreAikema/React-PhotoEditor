@@ -1,0 +1,9 @@
+.slider {
+  grid-area: slider;
+  padding: 2rem;
+}
+
+.slider > input {
+  width: 100%;
+  cursor: pointer;
+}

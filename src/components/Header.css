@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  background-color: var(--slack-color);
+  color: white;
+}
+
+.header__center {
+  padding: 0 10px;
+  width: 100vw;
+  font-size: 22px;
+  font-weight: 500;
+}

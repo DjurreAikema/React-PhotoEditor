@@ -1,0 +1,7 @@
+Add img drag and drop/upload button
+make it so the image can be safed to pc
+
+
+Layout:
+sidebar         img
+upload btn      slider
